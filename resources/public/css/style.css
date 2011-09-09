@@ -1,0 +1,16 @@
+body {
+   padding-top : 36px;
+   padding-left : 36px;
+}
+
+.container {
+   padding-left : 64px;
+}
+
+.container h3 {
+   font-size: x-large;;
+}
+
+.container h1 {
+   font-size: xx-large;
+}

@@ -1,0 +1,17 @@
+# strap
+
+Use compojure to serve adhoc web resources quickly.
+
+## Usage
+
+Install leiningen.
+
+lein deps
+
+lein ring
+
+## License
+
+Copyright (C) 2011 J. Matt Peterson
+
+Distributed under the Eclipse Public License, the same as Clojure.
