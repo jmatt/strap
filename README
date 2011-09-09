@@ -2,13 +2,15 @@
 
 Use compojure to serve adhoc web resources quickly.
 
+Useful for doing html/css/js development locally. Prevents problems caused when javascript may use AJAX to access resources.
+
 ## Usage
 
 Install leiningen.
 
 lein deps
 
-lein ring
+lein ring server
 
 ## License
 
