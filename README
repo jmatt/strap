@@ -12,6 +12,10 @@ lein deps
 
 lein ring server
 
+## Roadmap
+
+Add support for drop-in testing of AJAXy JS. Likely to include JSON support.
+
 ## License
 
 Copyright (C) 2011 J. Matt Peterson
