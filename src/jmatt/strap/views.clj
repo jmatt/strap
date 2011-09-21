@@ -12,3 +12,5 @@
      [:div {:class "container"}
      [:h1 "Strap"]
       [:h3 "Just put your website in <code>resources/public</code> and type <code>lein ring server</code>."]]]))
+
+;; Add Any needed scaffolding here.

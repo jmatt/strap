@@ -1,4 +1,4 @@
-(defproject lessc "0.1.1"
+(defproject strap "0.1.1"
   :description "Strap a Webserver Together."
   :dependencies [[org.clojure/clojure "1.2.1"]
                  [compojure "0.6.4"]
